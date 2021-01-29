@@ -36,4 +36,5 @@ The five types of breeds implemented are:
 - _Customers_
 - _OEMs_
 - _Research-insts 
+
 Other agents like the _Funding Organizations_ and the _Standardization Organizations_ are modeled in terms of aggregated entities - in the current version of the model, _Funding Organizations_ and _Standardization Organizations_ are modelled as environmental-global variables.
