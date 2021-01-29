@@ -19,7 +19,7 @@ The implemented IVC phases are, as mentioned above, mainly two:
 2. Product development (12 _ticks_).
 
 This choice derives from the study of use-cases present into the I AM RRI project, that cover two specialisations of the AM Industry: Automotive & Biomedical.
-The main time assumption made by the project is that 1 _tick_ equals to 1 month.
+The main time-related assumption made by the project is that 1 _tick_ equals to 1 month.
 Additionally, as main difference between SKIN and I AM RRI SKIN, the decisions and the behavior of the agents are not only price-related and cost-related, but time-related and especially RRI-related.
 
 Each agent is equipped with three _RRI state variables_ representing RRI inclinations that are translated into the model in the following 3 keys:
