@@ -6,9 +6,9 @@ The project started on 1 May 2018.
 ### I AM RRI SKIN: the model
 The aim of I AM RRI project is to develop a complex network model of AM innovation chains and their associated processes, which is directed towards RRI, at all levels.
 
-The model here presented, originated as an extension of the already available [SKIN model](https://cress.soc.surrey.ac.uk/skin/), it is mainly focused on the study of IVCs, webs of IVCs and their openings for RRI, using an **Agent-Based Modelling** (ABM) approach.
+The model developed ([I AM RRI SKIN]() model), coded in **NetLogo** using an **Agent-Based Modelling** (ABM) approach, originated as an extension of the already existing [SKIN model](https://cress.soc.surrey.ac.uk/skin/), and it is mainly focused on the study of IVCs, webs of IVCs and especially their openings for RRI.
 
-The proposed model incorporates complexity, covering various stages of the IVC life, mainly: idea generation and product developemnt.
+The I AM RRI SKIN model incorporates complexity, covering various stages of the IVC life, mainly: idea generation and product developemnt.
 The development of the innovation process goes through phases in which the _Capabilities_ (large domains of knowledge), and the _Abilities_ (applications in these domains), needed for an idea to be further developed, are not well defined. It is therefore essential the cooperation among _Agents_ and the creation of networks of IVCs. 
 
 Moreover, unlike SKIN, from which I AM RRI SKIN derives, the innovation process develops through different _ticks_ and it is not obtained just in _one model running cycle_.
@@ -35,6 +35,5 @@ The five types of breeds implemented are:
 - _Suppliers_
 - _Customers_
 - _OEMs_
-- _Research-insts 
-
+- _Research-insts_ 
 Other agents like the _Funding Organizations_ and the _Standardization Organizations_ are modeled in terms of aggregated entities - in the current version of the model, _Funding Organizations_ and _Standardization Organizations_ are modelled as environmental-global variables.
