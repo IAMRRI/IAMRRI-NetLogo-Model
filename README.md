@@ -1,5 +1,5 @@
 ### I AM RRI PROJECT: the context
-[I AM RRI project](https://iamrri.eu), it is an Horizon 2020 research project carried out in the context of the EU's _Science with and for Society_ programme (SwafS-12-2017 call), that ha the aim to investigate **Webs of Innovation Value Chains (WIVCs) in Additive Manufacturing (AM)**, to identify openings for Responsible Research & Innovation (RRI).
+[I AM RRI project](https://iamrri.eu), it is an Horizon 2020 research project carried out in the context of the EU’s _Science with and for Society_ programme (SwafS-12-2017 call), that ha the aim to investigate **Webs of Innovation Value Chains (WIVCs) in Additive Manufacturing (AM)**, to identify openings for Responsible Research & Innovation (RRI).
 
 The project started on 1 May 2018.
 
@@ -36,4 +36,5 @@ The five types of breeds implemented are:
 - _Customers_
 - _OEMs_
 - _Research-insts_ 
+
 Other agents like the _Funding Organizations_ and the _Standardization Organizations_ are modeled in terms of aggregated entities - in the current version of the model, _Funding Organizations_ and _Standardization Organizations_ are modelled as environmental-global variables.
