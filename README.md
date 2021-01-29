@@ -1,10 +1,39 @@
-## IAMRRI
-I AM RRI SKIN (WEBS OF INNOVATION VALUE CHAINS OF ADDITIVE MANUFACTURING UNDER CONSIDERATION OF RRI) is an agent-based-model of webs of innovation value chains (IVCs), in the context of additive manufacturing (AM), to identify openings for doing responsible research and innovation (RRI). As an extension of the SKIN model, it reproduces at its core the framework of knowledge. 
-It mainly focuses on the study of innovation value chains (IVCs), webs of IVCs and openings for responsible research and innovation (RRI). The proposed model incorporates complexity, covering various stages of innovation development through IVCs. 
-The development of the innovation process goes through phases in which the capabilities (large domains of knowledge) and the abilities (applications in these domains) needed for an idea to be further developed are not well defined, it is therefore essential the cooperation among agents and the creation of networks of IVCs. 
-Moreover, unlike SKIN, the innovation process develops through different ticks and is not obtained just in one tick. Each phase covers a defined number of ticks, which is the result of various WPs of the project. 
-The implemented phases are two: idea generation (3 ticks) and product development (12 ticks). This choice derives from the study of use cases and bases on the following assumption: 1 ticks = 1 month. Additionally, the decisions and the behavior of the agents are not only price-related and cost-related, but time-related and RRI-related.
-Each agent is equipped with three RRI state variables, representing RRI inclinations (open access, public engagement, ethical thinking) that profoundly influence the decision-making process.
-Other relatively minor extensions have been introduced to adapt the model to automotive and medical cases. A double industry model has been built, in which five different types of agents’ breeds  (a particular typology of agentset, endowed with particular variables) interact between them also participating to more network simultaneously.  
-The five types of agents’ breeds are: AM-tech, Suppliers, Customers, OEMs, Research-inst. Other agents like the funding organizations and the standard organizations are modeled like aggregate entities (in this version of the model, funding organizations and standard organizations are environmental-global variables). 
+### I AM RRI PROJECT: the context
+[I AM RRI project](https://iamrri.eu), it is an Horizon 2020 research project carried out in the context of the EU's _Science with and for Society_ programme (SwafS-12-2017 call), that ha the aim to investigate **Webs of Innovation Value Chains (WIVCs) in Additive Manufacturing (AM)**, to identify openings for Responsible Research & Innovation (RRI).
 
+The project started on 1 May 2018.
+
+### I AM RRI SKIN: the model
+The aim of I AM RRI project is to develop a complex network model of AM innovation chains and their associated processes, which is directed towards RRI, at all levels.
+
+The model here presented, originated as an extension of the already available [SKIN model](https://cress.soc.surrey.ac.uk/skin/), it is mainly focused on the study of IVCs, webs of IVCs and their openings for RRI, using an **Agent-Based Modelling** (ABM) approach.
+
+The proposed model incorporates complexity, covering various stages of the IVC life, mainly: idea generation and product developemnt.
+The development of the innovation process goes through phases in which the _Capabilities_ (large domains of knowledge), and the _Abilities_ (applications in these domains), needed for an idea to be further developed, are not well defined. It is therefore essential the cooperation among _Agents_ and the creation of networks of IVCs. 
+
+Moreover, unlike SKIN, from which I AM RRI SKIN derives, the innovation process develops through different _ticks_ and it is not obtained just in _one model running cycle_.
+Each IVC phase modelled covers a defined number of running cycles, defined as a result of the study conducted into the I AM RRI project. 
+
+The implemented phases are, as mentioned above, mainly two:
+1. Idea generation (3 _ticks_).
+2. Product development (12 _ticks_).
+
+This choice derives from the study of use-cases present into the I AM RRI project, that cover two specialisations of the AM Industry: Automotive & Biomedical.
+The main time assumption made by the project is that 1 _tick_ equals to 1 month.
+Additionally, as main difference between SKIN and I AM RRI SKIN, the decisions and the behavior of the agents are not only price-related and cost-related, but time-related and especially RRI-related.
+
+Each agent is equipped with three _RRI state variables_ representing RRI inclinations that are translated into the model in the following 3 keys:
+- Open Access.
+- Public Engagement.
+Ethical Thinking.
+These keys profoundly influence the decision-making process.
+
+Other relatively minor extensions have been introduced to adapt the I AM RRI SKIN model to Automotive and Biomedical use-cases.
+A double-industry model has been built, in which five different types of _Agents’ breeds_  - particular typologies of _AgentSet_ endowed with particular variables, interact between them also participating to more networks simultaneously.
+The five types of breeds implemented are:
+- _AM-techs_
+- _Suppliers_
+- _Customers_
+- _OEMs_
+- _Research-insts 
+Other agents like the _Funding Organizations_ and the _Standardization Organizations_ are modeled in terms of aggregated entities - in the current version of the model, _Funding Organizations_ and _Standardization Organizations_ are modelled as environmental-global variables.
