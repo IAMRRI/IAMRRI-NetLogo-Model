@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## IAMRRI
+I AM RRI SKIN (WEBS OF INNOVATION VALUE CHAINS OF ADDITIVE MANUFACTURING UNDER CONSIDERATION OF RRI) is an agent-based-model of webs of innovation value chains (IVCs), in the context of additive manufacturing (AM), to identify openings for doing responsible research and innovation (RRI). As an extension of the SKIN model, it reproduces at its core the framework of knowledge. 
+It mainly focuses on the study of innovation value chains (IVCs), webs of IVCs and openings for responsible research and innovation (RRI). The proposed model incorporates complexity, covering various stages of innovation development through IVCs. 
+The development of the innovation process goes through phases in which the capabilities (large domains of knowledge) and the abilities (applications in these domains) needed for an idea to be further developed are not well defined, it is therefore essential the cooperation among agents and the creation of networks of IVCs. 
+Moreover, unlike SKIN, the innovation process develops through different ticks and is not obtained just in one tick. Each phase covers a defined number of ticks, which is the result of various WPs of the project. 
+The implemented phases are two: idea generation (3 ticks) and product development (12 ticks). This choice derives from the study of use cases and bases on the following assumption: 1 ticks = 1 month. Additionally, the decisions and the behavior of the agents are not only price-related and cost-related, but time-related and RRI-related.
+Each agent is equipped with three RRI state variables, representing RRI inclinations (open access, public engagement, ethical thinking) that profoundly influence the decision-making process.
+Other relatively minor extensions have been introduced to adapt the model to automotive and medical cases. A double industry model has been built, in which five different types of agents’ breeds  (a particular typology of agentset, endowed with particular variables) interact between them also participating to more network simultaneously.  
+The five types of agents’ breeds are: AM-tech, Suppliers, Customers, OEMs, Research-inst. Other agents like the funding organizations and the standard organizations are modeled like aggregate entities (in this version of the model, funding organizations and standard organizations are environmental-global variables). 
 
-You can use the [editor on GitHub](https://github.com/GradoZeroTeam/IAMRRI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GradoZeroTeam/IAMRRI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
