@@ -1,7 +1,8 @@
 ;IAMRRI
 ;=====
 ;WEBS OF INNOVATION AND VALUE CHAINS OF ADDITIVE MANUFACTURING UNDER CONSIDERATION OF RRI
-;
+; v0.0 01/29/2021
+; v0.1 bug  pay-cost-fine-tuning-idea 02/11/2021
 extensions [nw]
 ;;globals preceded by ';' below are set by sliders, not by code
 globals [
