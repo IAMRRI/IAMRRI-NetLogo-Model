@@ -6,7 +6,7 @@ The project started on 1st May 2018.
 ### I AM RRI SKIN: the model
 The aim of I AM RRI project is to develop a complex network model of AM innovation chains and their associated processes, which is directed towards RRI, at all levels.
 
-The model developed ([I AM RRI SKIN model - v0.0](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.0.nlogo)), coded in **NetLogo** using an **Agent-Based Modelling** (ABM) approach, originated as an extension of the already existing [SKIN model](https://cress.soc.surrey.ac.uk/skin/), and it is mainly focused on the study of IVCs, webs of IVCs and especially their openings for RRI.
+The model developed ([I AM RRI SKIN model - v0.1](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.1.nlogo)), coded in **NetLogo** using an **Agent-Based Modelling** (ABM) approach, originated as an extension of the already existing [SKIN model](https://cress.soc.surrey.ac.uk/skin/), and it is mainly focused on the study of IVCs, webs of IVCs and especially their openings for RRI.
 
 The I AM RRI SKIN model incorporates complexity, covering various stages of the IVC life, mainly: idea generation and product developemnt.
 The development of the innovation process goes through phases in which the _Capabilities_ (large domains of knowledge), and the _Abilities_ (applications in these domains), needed for an idea to be further developed, are not well defined. It is therefore essential the cooperation among _Agents_ and the creation of networks of IVCs. 
@@ -38,4 +38,4 @@ The five types of breeds implemented are:
 4. _OEMs_
 5. _Research-insts_ 
 
-Other agents like the _Funding Organizations_ and the _Standard Organizations_ are modeled in terms of aggregated entities - in the current version of the model ([v0.0](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.0.nlogo)), _Funding Organizations_ and _Standard Organizations_ are modelled as environmental-global variables.
+Other agents like the _Funding Organizations_ and the _Standard Organizations_ are modeled in terms of aggregated entities - in the current version of the model ([v0.0](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.1.nlogo)), _Funding Organizations_ and _Standard Organizations_ are modelled as environmental-global variables.
