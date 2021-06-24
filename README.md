@@ -45,6 +45,6 @@ To cite the I AM RRI SKIN model please use the original  acknowledgement of [SKI
 
 Cozzoni, Enrico (Grado Zero Espace S.r.l.), Ponsiglione, Cristina, Primario, Simonetta and Passavanti, Carmine (Department of Industrial Engineering, University “Federico II” of Naples).
 
-Permission to use, modify or redistribute this model is hereby granted, provided that both of the following requirements are followed: a) the copyrights are respected; b) the model it is not redistributed for profit without permission; and c) the requirements of the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License http://creativecommons.org/licenses/by-nc-sa/3.0/ are complied with.
+Permission to use, modify or redistribute this model is hereby granted, provided that both of the following requirements are followed: a) the copyrights are respected; b) the model it is not redistributed for profit without permission; and c) the requirements of the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/ are complied with).
 
-The authors gratefully acknowledge funding from the European Commission, into the framework of I AM RRI H2020 project, GA 788361.
+The authors gratefully acknowledge funding from the European Commission, into the framework of [I AM RRI](https://iamrri.eu) H2020 project, GA 788361.
