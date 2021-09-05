@@ -40,6 +40,8 @@ The five types of breeds implemented are:
 
 Other agents like the _Funding Organizations_ and the _Standard Organizations_ are modeled in terms of aggregated entities - in the current version of the model ([v0.1](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.1.nlogo)), _Funding Organizations_ and _Standard Organizations_ are modelled as environmental-global variables.
 
+#### I AM RRI SKIN: the refined model
+
 ### CREDITS
 To cite the I AM RRI SKIN model please use the original  acknowledgement of [SKIN model](https://github.com/InnovationNetworks/skin), from which it derives, and additionally the following acknowledgement:
 
