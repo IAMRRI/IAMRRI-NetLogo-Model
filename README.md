@@ -45,9 +45,9 @@ Other agents like the _Funding Organizations_ and the _Standard Organizations_ a
 Some refinements have been introduced into the ([I AM RRI SKIN model - v0.2](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.2.nlogo)) (the last version of the model available), in order to take into account the developments of the I AM RRI project, and also to be more stick with the richness of the conceptual model, derived from it.
 
 The main refinements you will find in the new version ([v0.2)](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.2.nlogo) of the model are: 
- 1)The knowledge base of the agents, that in this version has been updated through a long work of verification and revision made on the agents' _kenes_ (the triples of _Capabilities_, _Abilities_ and _Expertises_).
-2) A new RRI key was added, _Gender Equality_, to the keys of the first version of the model, to work as a proxy for to support for a better definition and to reinforce the predisposition to ethical values of an agent.
-3) A new breed was added for the characterisation of a new family of agents in the model, the _NGO_ (non-governmental organization).
+- The knowledge base of the agents, that in this version has been updated through a long work of verification and revision made on the agents' _kenes_ (the triples of _Capabilities_, _Abilities_ and _Expertises_).
+- A new RRI key was added, Gender Equality, to the keys of the first version of the model, to work as a proxy for to support for a better definition and to reinforce the predisposition to ethical values of an agent.
+- A new breed was added for the characterisation of a new family of agents in the model, the _NGO_ (non-governmental organization).
 
 Other small changes were made, which necessity emerged more  the model verification phase, such as the adjustment of the Open Access key.
 
