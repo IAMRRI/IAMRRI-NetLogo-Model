@@ -20,9 +20,9 @@ The implemented IVC phases are, as mentioned above, mainly two:
 
 This choice derives from the study of use-cases present into the I AM RRI project, that cover two specialisations of the AM Industry: Automotive & Biomedical.
 The main time-related assumption made by the project is that 1 _tick_ equals to 1 month.
-Additionally, as main difference between SKIN and I AM RRI SKIN, the decisions and the behavior of the agents are not only price-related and cost-related, but time-related and especially RRI-related.
+Additionally, as main difference between SKIN and I AM RRI SKIN, the decisions and the behavior of the Agents are not only price-related and cost-related, but time-related and especially RRI-related.
 
-Each agent is equipped with three _RRI state variables_ representing RRI inclinations that are translated into the model in the following 3 keys:
+Each Agent is equipped with three _RRI state variables_ representing RRI inclinations that are translated into the model in the following 3 keys:
 - Open Access.
 - Public Engagement.
 - Ethical Thinking.
@@ -38,23 +38,23 @@ The five types of breeds implemented are:
 4. _OEMs_
 5. _Research-insts_ 
 
-Other agents like the _Funding Organizations_ and the _Standard Organizations_ are modeled in terms of aggregated entities - in the current version of the model ([v0.1](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.1.nlogo)), _Funding Organizations_ and _Standard Organizations_ are modelled as environmental-global variables.
+Other Agents like the _Funding Organizations_ and the _Standard Organizations_ are modeled in terms of aggregated entities - in the current version of the model ([v0.1](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.1.nlogo)), _Funding Organizations_ and _Standard Organizations_ are modelled as environmental-global variables.
 
 #### I AM RRI SKIN: the refined model
 
-Some refinements have been introduced into the ([I AM RRI SKIN model - v0.2](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.2.nlogo)) (the last version of the model available), in order to take into account the developments of the I AM RRI project, and also to be more stick with the richness of the conceptual model, derived from it.
+Some refinements have been introduced into the ([I AM RRI SKIN model - v0.2](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.2.nlogo)) (the **last version of the model available**), in order to take into account the developments of the I AM RRI project, and also to be more stick with the richness of the conceptual model, derived from it.
 
 The main refinements you will find in the new version ([v0.2)](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.2.nlogo) of the model are: 
-- The knowledge base of the agents, that in this version has been updated through a long work of verification and revision made on the agents' _kenes_ (the triples of _Capabilities_, _Abilities_ and _Expertises_).
-- A new RRI key was added, Gender Equality, to the keys of the first version of the model, to work as a proxy for to support for a better definition and to reinforce the predisposition to ethical values of an agent.
-- A new breed was added for the characterisation of a new family of agents in the model, the _NGO_ (non-governmental organization).
+- The knowledge base of the Agents, that in this version has been updated through a long work of verification and revision made on the Agents' _kenes_ (the triples of _Capabilities_, _Abilities_ and _Expertises_).
+- A new RRI key was added, Gender Equality, to the keys of the first version of the model, to work as a proxy for to support for a better definition and to reinforce the predisposition to ethical values of an Agent.
+- A new breed was added for the characterisation of a new family of Agents in the model, the _NGO_ (non-governmental organization).
 
-Other small changes were made, which necessity emerged more  the model verification phase, such as the adjustment of the Open Access key.
+Other small changes were also made, which necessity emerged more  the model verification phase, such as the adjustment of the Open Access key.
 
 ### CREDITS
 To cite the I AM RRI SKIN model please use the original  acknowledgement of [SKIN model](https://github.com/InnovationNetworks/skin), from which it derives, and additionally the following acknowledgement:
 
-Cozzoni, Enrico (Grado Zero Espace S.r.l.), Ponsiglione, Cristina, Primario, Simonetta and Passavanti, Carmine (Department of Industrial Engineering, University “Federico II” of Naples).
+Cozzoni, Enrico (Grado Zero Espace S.r.l.), Ponsiglione, Cristina, Primario, Simonetta and Passavanti, Carmine and Marsiglia, Giulia (Department of Industrial Engineering, University “Federico II” of Naples).
 
 Permission to use, modify or redistribute this model is hereby granted, provided that both of the following requirements are followed: a) the copyrights are respected; b) the model it is not redistributed for profit without permission; and c) the requirements of the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/) are complied with.
 
