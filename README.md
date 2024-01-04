@@ -4,7 +4,7 @@
 The project started on 1st May 2018.
 
 ### I AM RRI SKIN: the model
-The aim of I AM RRI project is to develop a complex network model of AM innovation chains and their associated processes, which is directed towards RRI, at all levels.
+The aim of I AM RRI project is to develop a complex network model of AM innovation chains and their associated processes, which are directed towards RRI, at all levels.
 
 The model developed ([I AM RRI SKIN model - v0.1](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.1.nlogo)), coded in **NetLogo** using an **Agent-Based Modelling** (ABM) approach, originated as an extension of the already existing [SKIN model](https://cress.soc.surrey.ac.uk/skin/), and it is mainly focused on the study of IVCs, webs of IVCs and especially their openings for RRI.
 
