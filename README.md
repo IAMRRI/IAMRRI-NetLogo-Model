@@ -8,7 +8,7 @@ The aim of I AM RRI project is to develop a complex network model of AM innovati
 
 The model developed ([I AM RRI SKIN model - v0.1](https://github.com/GradoZeroTeam/IAMRRI/blob/master/IAMRRI-ver0.1.nlogo)), coded in **NetLogo** using an **Agent-Based Modelling** (ABM) approach, originated as an extension of the already existing [SKIN model](https://cress.soc.surrey.ac.uk/skin/), and it is mainly focused on the study of IVCs, webs of IVCs and especially their openings for RRI.
 
-The I AM RRI SKIN model incorporates complexity, covering various stages of the IVC life, mainly: idea generation and product developemnt.
+The I AM RRI SKIN model incorporates complexity, covering various stages of the IVC life, mainly: idea generation and product development.
 The development of the innovation process goes through phases in which the _Capabilities_ (large domains of knowledge), and the _Abilities_ (applications in these domains), needed for an idea to be further developed, are not well defined. It is therefore essential the cooperation among _Agents_ and the creation of networks of IVCs. 
 
 Moreover, unlike SKIN, from which I AM RRI SKIN derives, the innovation process develops through different _ticks_ and it is not obtained just in _one model running cycle_.
